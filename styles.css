@@ -1,0 +1,47 @@
+img {
+    max-width: 50%;
+    height: auto;
+}
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+    margin: 40;
+    padding: 40;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.flexbox {
+    display: flex;
+    flex-direction: row;
+}
+
+h1 {
+    color:saddlebrown
+}
+
+h2 {
+    color: brown
+}
+
+ul {
+    font-size: large;
+    color: chocolate;
+}
+
+dd {
+    color:tomato
+}
+
+p {
+    font-size: large;
+    color:chocolate;
+}
